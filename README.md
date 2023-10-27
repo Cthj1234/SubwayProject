@@ -8,17 +8,18 @@
 * 각 역의 편의시설을 데이터베이스에 저장하여 입력받은 역값에 알맞게 출력합니다.
 <br/><br/>
 ## 주어진 노선도와 각 역의 정보 예시
-<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/6e4bc6a2-6b7b-4d7c-940a-8ec931687fbf"/>
-<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/09b7a529-40a4-4eb0-84f0-0d744a2fdebf"/>
+<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/9ae997e8-9611-42ae-9ab0-ecd6bbab7b58"/>
+<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/0928a836-91dc-4672-b1c6-c7782c32c887"/>
 <br/><br/>
 
 #### UseCaseDiagram
-<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/bf5527bf-dab4-4d9e-8cf3-8b03dcd4c437"/>
+<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/a7e8a65f-02a7-49f6-8eb1-34b79635d631"/>
 <br/><br/>
 
 #### UI설계
-<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/b6b69cc2-6b5b-48d4-a392-ba9adc63f772"/>
+<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/7428189d-f415-4fe5-bd11-d43bec86f7a9"/>
 <br/><br/>
 
 #### 완성된 화면 예시
-<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/37238fe1-c436-4798-93d4-a3a3ca3d76ee"/>
+<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/77af126e-ff25-4026-a5a4-5fede2f0df73"/>
+<img width="50%" src="https://github.com/Cthj1234/SubwayProject/assets/114575847/b723ac60-df64-47a4-aeb7-a29c193b2af6"/>
